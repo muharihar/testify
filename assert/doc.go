@@ -1,6 +1,6 @@
 // Package assert provides a set of comprehensive testing tools for use with the normal Go testing system.
 //
-// Example Usage
+// Example Usage [Test]
 //
 // The following is a complete example using assert in a standard test function:
 //    import (
